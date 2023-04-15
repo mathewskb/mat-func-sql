@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "mat_func_sql": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7183",
+      "launchBrowser": false
+    }
+  }
+}
